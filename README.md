@@ -7,4 +7,4 @@ This is a plugin to display DHT11 sensor readings attached to Raspberry Pi on ne
 3. `service netdata restart`
 
 ## Credits
-This project uses code from [https://github.com/szazo/DHT11_Python/blob/master/README.md](https://github.com/szazo/DHT11_Python/blob/master/README.md).
+This project uses code from [https://github.com/szazo/DHT11_Python](https://github.com/szazo/DHT11_Python.
